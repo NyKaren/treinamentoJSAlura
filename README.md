@@ -46,6 +46,6 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 
 
 
-Exemplo de [README](https://github.com/18F/open-source-guide/edit/18f-pages/pages/making-readmes-readable.md) e [Projeto que publica análises pro governo dos EUA](https://github.com/18F/analytics.usa.gov/edit/master/README.md).
+Exemplo de [README](https://github.com/18F/open-source-guide/edit/18f-pages/pages/making-readmes-readable.md), além de [README](https://github.com/18F/analytics.usa.gov/edit/master/README.md) do Projeto que publica análises pro governo dos EUA.
 
 
