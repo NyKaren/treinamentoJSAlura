@@ -21,8 +21,9 @@ Douglas é desenvolvedor e instrutor na Caelum, além de instrutor na Alura, int
 * AjaxBuscando pacientes com AJAX
 
 ### Como realizei a subida do projeto pré-existente no GitHub
+Quando já está dentro da pasta, no nível imediatamente abaixo, que se pretende subir:
 ```bash
-git init //quando já está dentro pasta que se pretende subir
+git init 
 git remote add origin https://github.com/NyKaren/treinamentoJSAlura.git
 git config --local user.name "nome do usuario do GitHub"
 git config --local user.email "email do GitHub"
