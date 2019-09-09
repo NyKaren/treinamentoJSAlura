@@ -6,10 +6,10 @@ Curso Alura: https://cursos.alura.com.br/course/javascript-programando-na-lingua
 FORMAÇÕES COM ESSE CURSO: Front-end, Vue.js, Node.js
 
 INSTRUTOR
-Douglas Quintanilha Barbosa Ferreira
+Douglas Quintanilha Barbosa Ferreira: 
 Douglas é desenvolvedor e instrutor na Caelum, além de instrutor na Alura, interessado em Javascript, Front end, administração de sistemas e um pouquinho de Eletrônica!
 
-##MAIS SOBRE O CURSO
+## MAIS SOBRE O CURSO
 --Introdução
 --Variáveis e Operadores
 --Arrays, Loop e Estilos
