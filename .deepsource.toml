@@ -1,0 +1,15 @@
+version = 1
+
+[[analyzers]]
+name = "test-coverage"
+enabled = true
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  module_system = "commonjs"
+  style_guide = "google"
+  environment = ["nodejs"]
+  plugins = ["vue"]
